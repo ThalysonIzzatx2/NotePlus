@@ -44,12 +44,7 @@ type Props = {};
 export default class App extends Component<Props> {
   componentWillMount() {
     var config = {
-        apiKey: "AIzaSyCsnMWLpJlCccQ3oFSJVExocxORbsHY3Ok",
-        authDomain: "note-plus-a7815.firebaseapp.com",
-        databaseURL: "https://note-plus-a7815.firebaseio.com",
-        projectId: "note-plus-a7815",
-        storageBucket: "note-plus-a7815.appspot.com",
-        messagingSenderId: "79844687498"
+        //API FIREBASE
       };
       if (!firebase.apps.length) {
         firebase.initializeApp(config);

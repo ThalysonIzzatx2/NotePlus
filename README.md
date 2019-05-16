@@ -1,5 +1,5 @@
 # NotePlus
-react native app
+App developed in React Native
 
 Link para teste -> http://www.mediafire.com/file/j6udllvjqjdqlpy/noteplus.apk/file
 
